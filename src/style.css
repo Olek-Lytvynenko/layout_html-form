@@ -1,1 +1,10 @@
-/* styles go here */
+fieldset {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+dir {
+  padding-left: 0;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
